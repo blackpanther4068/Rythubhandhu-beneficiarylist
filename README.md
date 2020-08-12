@@ -2,11 +2,6 @@
 <html>
 <head><title>BENFISHERY LIST</title>
 </head>
-<style>
-table,td,th{
-border:4px solid black
-} 
-</style>
 <body>
 <table>
 <tr>
